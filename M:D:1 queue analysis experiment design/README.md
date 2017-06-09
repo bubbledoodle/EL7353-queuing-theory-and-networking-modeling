@@ -11,7 +11,7 @@ So we keep monitoring the average queue length for both GENI testbed and ns2 sim
 
 ### Instructions ###
 In this experiment you need to set up the simple topology like below.
-![Alt text](https://bytebucket.org/bubbledoodle/el7353-sl5352/raw/bdd0ad42fcce50616d0c4f37da99c616fb2b0e8f/topology.png?token=488fa0c16ae254da57fd536a4de361a53354e3cc)
+![Alt text](topology.png)
 
 #### GENI testbed ####
 * In this experiment, you need to setup the topology and install D-IGT first on your client and server node in the topology. Then you are going to generate UDP traffic on client node, monitor queue length at router and arriving rate at server node.
