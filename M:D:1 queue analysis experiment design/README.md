@@ -65,4 +65,4 @@ The raw data is in two mat_file, to analyze the data, use [MD1_analyze](https://
 * M/M/1 vs M/D/1
 ![Alt text](MM1vsMD1.png)
 
-The analysis is on the [report](https://bitbucket.org/bubbledoodle/el7353-sl5352/raw/6050d261191fa7b463a69fd248a7007f638b1ba1/Lab3_4_5.pdf)
+The analysis is on the [report](Lab3_4_5.pdf)
