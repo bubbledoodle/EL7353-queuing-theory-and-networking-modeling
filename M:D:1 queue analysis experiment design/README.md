@@ -60,9 +60,9 @@ this will yield average queue size(packets), Arrivals(packets), Departure(packet
 The raw data is in two mat_file, to analyze the data, use [MD1_analyze](https://bitbucket.org/bubbledoodle/el7353-sl5352/raw/6050d261191fa7b463a69fd248a7007f638b1ba1/MD1_analyze.m)
 
 * M/D/1 queue analysis
-![Alt text](MD1queue.png)
+![Alt text](MD1queue.png = 200*100)
 
 * M/M/1 vs M/D/1
-![Alt text](MM1vsMD1.png)
+![Alt text](MM1vsMD1.png = 200*100)
 
 The analysis is on the [report](Lab3_4_5.pdf)
